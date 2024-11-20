@@ -1,1 +1,0 @@
-# COLIMA_NSE
